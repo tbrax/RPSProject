@@ -3,6 +3,7 @@
 **/*~
 gradle*
 libs/
+tf_files2
 local.properties
 android.iml
 .gradle/
